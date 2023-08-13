@@ -1,0 +1,38 @@
+body {
+  width: 300px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+textarea {
+  width: 100%;
+  height: 120px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  resize: none;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#translateButton {
+  margin-top: 10px;
+}
+
+#selectedText {
+  width: 100%;
+  height: 120px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  resize: none;
+}

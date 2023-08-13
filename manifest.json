@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Seleção de Texto",
+  "version": "1.0",
+  "description": "Uma extensão simples para exibir texto selecionado.",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
